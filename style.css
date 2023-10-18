@@ -47,6 +47,7 @@ h1{
 p {
     padding: 10px;
     color: gray;
+    width: 100%;
 }
 
 .box img {
